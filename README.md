@@ -1,1 +1,1 @@
-# DataCamp_DataScience_Projects
+# DataCamp DataScience Projects
